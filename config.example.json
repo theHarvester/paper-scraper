@@ -1,0 +1,13 @@
+{
+  "subreddits":[
+    {
+      "subreddit":"earthporn",
+      "output":"storage/wallpapers",
+      "limit":10
+    },
+    {
+      "subreddit":"spaceporn",
+      "output":"storage/space"
+    }
+  ]
+}
